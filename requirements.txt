@@ -2,8 +2,9 @@
 # Pinned where provided; add or change pins if you need reproducible installs.
 Flask==3.1.2
 gunicorn==23.0.0
-numpy==2.2.6
+numpy==1.26.4
 # Synced to local environment (pip show pandas => 2.2.3)
 pandas==2.2.3
 joblib==1.5.3
 scikit-learn==1.8.0
+
