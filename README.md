@@ -6,7 +6,7 @@ A Machine Learning based web application that recommends the most suitable crop 
 
 ## 🚀 Live Website
 
-👉 [Click here to use the app](https://crop-recommendation-1-pv6p.onrender.com)
+👉 [Click here to use the website](https://crop-recommendation-1-pv6p.onrender.com)
 
 ---
 
