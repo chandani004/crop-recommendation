@@ -12,7 +12,7 @@ A Machine Learning based web application that recommends the most suitable crop 
 
 ## 🎥 Working Demo
 
-![Demo](static/demo.gif)
+![Demo](static/ezgif.com-optimize.gif)
 
 ---
 
