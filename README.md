@@ -42,7 +42,7 @@ A Machine Learning based web application that recommends the most suitable crop 
 
 ## 📷 Screenshot
 
-![App Screenshot](static/Screenshot%20(235).png)
+![Website Screenshot](static/Screenshot (308).png)
 
 ---
 
