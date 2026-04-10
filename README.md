@@ -42,7 +42,8 @@ A Machine Learning based web application that recommends the most suitable crop 
 
 ## 📷 Screenshot
 
-![Website Screenshot](static/Screenshot (308).png)
+![Website Screenshot](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/52479930-feab-4794-ac0f-b45bf6a276bc" />
+)
 
 ---
 
